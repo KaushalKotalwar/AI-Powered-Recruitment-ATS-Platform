@@ -51,5 +51,3 @@ Video interview integration
 Advanced analytics dashboard
 👨‍💻 Author
 Kaushal kotalwar
-
-Your Name
